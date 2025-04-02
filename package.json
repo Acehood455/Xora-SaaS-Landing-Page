@@ -15,7 +15,9 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scroll": "^1.9.3",
-    "react-slidedown": "^2.4.7"
+    "react-slidedown": "^2.4.7",
+    "prettier": "^3.5.3",
+    "react-countup": "^6.5.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
