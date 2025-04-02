@@ -1,0 +1,19 @@
+# To install specifically v3 of tailwindcss :=>
+npm install tailwindcss@3
+
+# In v4 tailwindcss always load external 
+    fonts before loading the tailwind file 
+    when importing to your css file
+
+# To use the quickly scroll to different 
+    elements in react you need to install : =>
+npm install react-scroll
+
+# Install clsx for className conditionality
+npm install --save clsx
+
+# Installed a Package to use the counting up 
+  and down of the pricing section
+npm install react-countup
+
+# Installed react-slidedown for FAQItem Q/A slide down
